@@ -4,7 +4,7 @@ description: >-
   creat.
 ---
 
-# Ce este Git?
+# Ce este Git? test
 
 Git este un **Sistem de Versionare** a codului sursă. În termeni simpli, acesta știe să rețină modificări în codul tău sursă.
 
