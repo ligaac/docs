@@ -4,6 +4,9 @@
 * [📢 Contribuie şi tu!](proposals.md)
 * [💬 Feedback](feedback.md)
 
+## Evenimente 
+* [HackAC: Hackathon-ul Ligii AC](evenimente/hackAC.md)
+
 ## Docs
 * [Git - istoria fişierelor tale](docs/git-istoria-fisierelor-tale/README.md)
   * [Ce este Git?](docs/git-istoria-fisierelor-tale/ce-este-git.md)
@@ -15,7 +18,7 @@
 * [GitHub Student Pack](docs/github-student-pack.md)
 * [JetBrains & Tools](docs/jetbrains.md)
 
-## Trainings
+## Trainings Tehnic
 * [T1 - Git](trainings/t1-git.md)
 * [T2 - Frontend](trainings/t2-frontend.md)
 * [T3 - Docker](trainings/t3-docker.md)
