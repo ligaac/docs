@@ -18,7 +18,8 @@
 * [GitHub Student Pack](docs/github-student-pack.md)
 * [JetBrains & Tools](docs/jetbrains.md)
 
-## Trainings Tehnic
+
+## Training-uri Tehnic
 * [T1 - Git](trainings/t1-git.md)
 * [T2 - Frontend](trainings/t2-frontend.md)
 * [T3 - Docker](trainings/t3-docker.md)
