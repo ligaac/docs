@@ -31,18 +31,6 @@ HackAC nu este doar un maraton de coding; este un exercițiu de **coopetiție**.
 
 ---
 
-### 🗳️ Vocea Ta Contează
-Știm că programul tuturor este încărcat, așa că vrem să stabilim data împreună. Participarea ta depinde de acest vot!
-
-> [!IMPORTANT]
-> **Completează poll-ul de mai jos până la data de [Data] pentru a alege weekend-ul optim!**
-
-- [ ] **Varianta 1:** [Data A]
-- [ ] **Varianta 2:** [Data B]
-- [ ] **Varianta 3:** [Data C]
-
----
-
 ### 🏆 Miza
 Dincolo de pizza și vibe-ul de comunitate, echipele care livrează cele mai bune soluții vor primi titlul de **"Arhitecți ai Ligii"** și vor avea prioritate în implementarea viziunii lor în roadmap-ul tehnic al anului.
 
