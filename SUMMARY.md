@@ -19,5 +19,12 @@
 
 ## Utile
 
+## Trainings
+
+* [T1 - Git](trainings/t1-git.md)
+* [T2 - Frontend](trainings/t2-frontend.md)
+* [T3 - Docker](trainings/t3-docker.md)
+* [T4 - Database / Backend](trainings/t4-db-be.md)
+
 * [🔗 Link-uri utile](utile/links.md)
 
