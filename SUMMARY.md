@@ -1,12 +1,10 @@
 # Table of contents
-
 * [📚 Despre Docs](README.md)
 * [🚙 Roadmap](contributions.md)
 * [📢 Contribuie şi tu!](proposals.md)
 * [💬 Feedback](feedback.md)
 
 ## Docs
-
 * [Git - istoria fişierelor tale](docs/git-istoria-fisierelor-tale/README.md)
   * [Ce este Git?](docs/git-istoria-fisierelor-tale/ce-este-git.md)
   * [Cum instalăm Git?](docs/git-istoria-fisierelor-tale/cum-instalam-git.md)
@@ -17,14 +15,12 @@
 * [GitHub Student Pack](docs/github-student-pack.md)
 * [JetBrains & Tools](docs/jetbrains.md)
 
-## Utile
-
 ## Trainings
-
 * [T1 - Git](trainings/t1-git.md)
 * [T2 - Frontend](trainings/t2-frontend.md)
 * [T3 - Docker](trainings/t3-docker.md)
 * [T4 - Database / Backend](trainings/t4-db-be.md)
 
+## Utile
 * [🔗 Link-uri utile](utile/links.md)
 
