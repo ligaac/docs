@@ -1,8 +1,9 @@
 # Table of contents
 * [📚 Despre Docs](README.md)
-* [🚙 Roadmap](contributions.md)
 * [📢 Contribuie şi tu!](proposals.md)
 * [💬 Feedback](feedback.md)
+
+[//]: # (* [🚙 Roadmap]&#40;contributions.md&#41;)
 
 
 [//]: # (## Docs)
