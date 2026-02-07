@@ -1,24 +1,26 @@
 ---
-description: Inițiativa Ligii AC de a face educația de calitate deschisă tuturor!
+description: Inițiativa Departamentului Tehnic pentru centralizarea și dezvoltarea cunoștințelor interne.
 ---
 
-# 📚 Despre Docs
+# 🛠️ Despre Docs
 
-> **Educația de calitate** trebuie să fie ușor de accesat, de oriunde, de oricând, de **oricine**.
+> Cunoașterea trebuie să fie ușor de accesat, de oriunde, de oricând, de oricine din Departamentul Tehnic.
 
-![Imagine de @element5digital pe Unsplash](.gitbook/assets/image%20%289%29.png)
+![Imagine de @element5digital pe Unsplash](.gitbook/assets/poza_grup.png)
 
-Noi, membrii ai Ligii AC am început această inițiativă de crea conținut educațional pentru voi, studenții care doriți să vă dezvoltați, elevii cu visuri mari, dar și vecinului de la 4 cu care te-ai decis să înveți ceva nou! 😉 
+Noi, membrii Departamentului Tehnic, am pornit această inițiativă pentru a centraliza și documenta informații relevante pentru activitatea noastră. Platforma este destinată exclusiv colegilor din departament și are ca scop sprijinirea dezvoltării continue, alinierii și transferului de cunoștințe între membri.
 
-## 🌍 Educație de oriunde
+## 🌍 Acces de oriunde
 
-Știm că de multe ori ești blocat într-o cursă lungă în tren, tramvai sau chiar în mașină... am pățit și noi. De aceea, am ales să folosim platforma [GitBook](https://gitbook.com/?utm_campaign=ligaac&utm_source=mainpage&utm_medium=gitbook) pentru a putea distribui articolele scrise cât mai ușor și cu încrederea că vor putea fi accesate de oriunde. Salvează-ți în **Bookmarks** site-ul [docs.ligaac.ro](https://docs.ligaac.ro) ca să ajungi și mai ușor aici!
+Activitatea noastră nu se desfășoară mereu din același loc. De aceea, folosim platforma [GitBook](https://gitbook.com/?utm_campaign=ligaac&utm_source=mainpage&utm_medium=gitbook) pentru a avea documentația organizată și ușor de accesat, indiferent de context.  
+Salvează site-ul [docs.ligaac.ro](https://docs.ligaac.ro) pentru acces rapid la informațiile de care ai nevoie.
 
-## ⌛  Educație oricând
+## ⌛ Acces oricând
 
-E pauză de reclame la Asia Express? Nici o problemă! Poți folosi aceste 5 minute să înveți ceva nou iar dacă te prind chiar așa bine, poți vedea episodul și în reluare. Nu?
+Conținutul este gândit pentru a putea fi consultat atât rapid, cât și în profunzime, în funcție de timpul disponibil. Fie că ai nevoie de o referință punctuală sau vrei să aprofundezi un subiect, informația este disponibilă oricând.
 
-## 👨‍👩‍👧‍👦 Educație de oricine
+## 👩‍💻👨‍💻 Contribuție din interiorul departamentului
 
-**Chiar și tu poți contribui!** Incredibil, așa-i? Deoarece educația trebuie să fie deschisă tuturor, dorim să oferim șansa oricum să contribuie și să ne ajute în a avea conținut cât mai calitativ, relevant și interesant. Vezi în pagina următoare ce trebuie să faci 😉 
-
+Orice membru al Departamentului Tehnic poate contribui.  
+Această platformă este construită de departament, pentru departament. Încurajăm completarea, actualizarea și îmbunătățirea conținutului astfel încât informațiile să rămână clare, corecte și utile pentru toți colegii.  
+Consultă pagina următoare pentru a vedea cum poți contribui.
