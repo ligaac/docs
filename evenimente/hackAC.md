@@ -14,7 +14,7 @@ HackAC nu este doar un maraton de coding; este un exercițiu de **coopetiție**.
 
 ### 🛠️ Ce facem mai exact?
 
-| Activitate | Descriere |
+| **Activitate** | **Descriere** |
 | :--- | :--- |
 | **Development** | Rezolvăm bug-uri vechi și dezvoltăm feature-uri noi pentru platformele noastre. |
 | **Ideation** | Venim cu concepte noi care să eficientizeze munca în departamente. |
@@ -24,16 +24,28 @@ HackAC nu este doar un maraton de coding; este un exercițiu de **coopetiție**.
 
 ### 📋 Detalii Organizatorice
 
-* **Cine poate participa?** * Oricine! Indiferent de departament (IT, PR, HR, Logis etc.).
+* **Cine poate participa?** * Orice membru al Ligii AC, indiferent de departament.
     * *Nu trebuie să fii programator ca să inovezi.*
-* **Unde?** 📍 Cantina UPT (cea mare din Complex).
-* **Durată:** ⏱️ De sâmbătă dimineața până duminică la prânz.
+* **Unde?** Cantina UPT (cea mare din Complex).
+* **Cand?** 
+* **Durată:** De sâmbătă dimineața până duminică la prânz.
 
 ---
 
-### 🏆 Miza
-Dincolo de pizza și vibe-ul de comunitate, echipele care livrează cele mai bune soluții vor primi titlul de **"Arhitecți ai Ligii"** și vor avea prioritate în implementarea viziunii lor în roadmap-ul tehnic al anului.
+### Inscrieri
 
----
+Te poti inscrie
 
-**Hai să facem HackAC legendar!** ✨
+
+### Formarea de echipe
+
+Echipele pot fi de maxim 4 persoane. In cazul in care ati avea nevoie de mai multe persoane, puteti argumenta de ce ati avea nevoie si _poate_ negociam asta ;)
+
+### Sesiunea de impartire a ideilor
+
+Referitor la procesul de impartire a ideilor, in vederea rezolvarii lor, echipele gata formate care vin cu o idee pe care si-o reprezinta in sesiunea de formare. 
+
+Daca ideea este in regula, echipa primeste unda verde in realizarea ideii. 
+
+Daca exista echipe care nu au depus o idee, in functie de ce idei sunt trimise in formularul de idei, o sa poata sa isi aleaga ce considera ca ar putea sa implementeze ei.
+
