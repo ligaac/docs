@@ -25,6 +25,7 @@
 * [T2 - Frontend](trainings/t2-frontend.md)
 * [T3 - Docker](trainings/t3-docker.md)
 * [T4 - Database / Backend](trainings/t4-db-be.md)
+* [T5 - Infrastructura](trainings/t5-infrastructure.md)
 
 [//]: # (## Utile)
 [//]: # (* [🔗 Link-uri utile]&#40;utile/links.md&#41;)
